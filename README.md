@@ -28,7 +28,7 @@
 
 ---
 
-## Code Sample
+# Code Sample
 
 ```html
 <!DOCTYPE html>
